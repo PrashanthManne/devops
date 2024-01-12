@@ -1,0 +1,13 @@
+
+public class Slokam{
+ 
+ public static void main (String [] args){
+
+   String name = "Slokam Institute for experience"
+
+   System.out.println (name);
+
+
+}
+
+}
